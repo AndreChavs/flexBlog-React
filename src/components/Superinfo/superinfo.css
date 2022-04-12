@@ -1,0 +1,14 @@
+.superinfo-bg{
+    width: 100%;    
+    background-color: #122ab2;
+    color: #FFF;
+}
+.superinfo{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;    
+}
+.superinfo a{
+    text-decoration: none;
+    color: #FFF;
+}

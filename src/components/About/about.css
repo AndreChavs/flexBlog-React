@@ -1,0 +1,28 @@
+.sobre{
+    border-top: 3px solid #122ab2;
+    border-bottom: 3px solid #122ab2;
+    display: flex; 
+    padding: 60px 0;   
+}
+.sobre img{
+    display: block;
+    width: 100%;
+}
+.sobre .img{
+    flex: 1;
+    margin: 0 10px;
+}
+.sobre-info{
+    flex: 2;
+    margin: 0 10px;
+}
+.sobre-info h1{
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+.sobre-info p{
+    font-size: 1.25rem;
+    line-height: 1.4;
+    margin-bottom: 1rem;
+    color: #7c7c7c;
+}
